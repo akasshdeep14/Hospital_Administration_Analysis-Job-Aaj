@@ -25,3 +25,6 @@ High-Risk Factors: Chronic conditions (Diabetes, Heart Disease), age, and previo
 Core Strategy: Data-driven discharge planning and proactive follow-up monitoring.
 
 Business Impact: Optimized resource utilization and reduced financial penalties for hospitals.
+
+<img width="802" height="461" alt="02" src="https://github.com/user-attachments/assets/05c40b42-a408-4c1a-8038-d49d6dd30cb1" />
+
