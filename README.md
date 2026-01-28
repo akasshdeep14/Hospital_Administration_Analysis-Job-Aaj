@@ -24,4 +24,6 @@ Ethical Considerations -
 
 Protecting privacy means anonymizing reviews and avoiding bias in category generalizations. Collaborate with experts for robust methods and ongoing model refinement
 
+<img width="802" height="461" alt="02" src="https://github.com/user-attachments/assets/b8755094-30ca-4c68-8313-f868c02c45f4" />
+
 
