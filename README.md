@@ -1,24 +1,27 @@
 ### Hospital Administration Analysis
 
-Project Purpose
-•	This project focuses on reducing hospital readmissions, which can harm patient health and increase healthcare costs.
-•	The goal is to understand why patients return to the hospital within a short time and identify those at high risk early.
-•	By using data, the project aims to help hospitals take preventive action before readmissions happen.
-Key Findings
-•	Readmissions are more likely among patients who:
-o	Are older in age
-o	Have chronic conditions such as diabetes, hypertension, heart disease, or respiratory issues
-o	Have frequent prior hospital visits
-o	Take multiple or intensive medications
-o	Receive insufficient follow-up care after discharge
-•	Certain health conditions significantly increase the risk of repeat hospital visits.
-•	Predictive models successfully flagged high-risk patients, enabling early intervention.
+This case study effectively demonstrates data-driven insights into Google Play Store app success using standard analytics practices.
+​
 
-How Hospitals Can Use These Insights
-•	Improve discharge planning to ensure patients leave with proper care plans
-•	Create personalized follow-up programs for vulnerable patients
-•	Monitor high-risk patients more closely after discharge
-•	Optimize care pathways to prevent unnecessary readmissions
-•	Allocate hospital resources more efficiently
+Data Processing Steps - 
+
+Cleaning involved handling missing ratings (often via mode imputation), duplicate removal, data type conversions, category standardization, and date formatting for time-based analysis like update frequency. These steps ensure reliable EDA and modeling.
+
+Key Factors Analyzed - 
+
+App ratings positively correlate with installs and reviews, while optimal size and free pricing boost adoption; frequent updates enhance satisfaction. Categories like "Art and Design," "Family," and "Tools" often lead in installs. Paid apps face harsher reviews.
+
+Analytical Insights - 
+
+Sentiment analysis of reviews reveals ~61% positive sentiment, highlighting praised features and common issues. Pricing affects ratings differently for free vs. paid apps, and high-engagement genres include Entertainment, Education, and Business. Average rating hovers around 4.17.
+​
+
+Business Recommendations - 
+
+Prioritize high-performing categories, minimize app size, adopt free models with broad content ratings, and schedule regular updates. Leverage review sentiment for iterations.
+
+Ethical Considerations - 
+
+Protecting privacy means anonymizing reviews and avoiding bias in category generalizations. Collaborate with experts for robust methods and ongoing model refinement
 
 
