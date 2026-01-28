@@ -1,28 +1,15 @@
 ### Hospital Administration Analysis
-
-This case study effectively demonstrates data-driven insights into Google Play Store app success using standard analytics practices.
 ​
+This project aims to reduce the rate of hospital readmissions, a major challenge that impacts patient health outcomes and increases medical costs. By analyzing patient data, treatment history, medical conditions, and admission trends, the goal is to identify key risk factors responsible for repeated hospital visits within a short period.
 
-Data Processing Steps - 
+The case study involves cleaning and examining real-world healthcare data to explore relationships between variables such as age, comorbidities, treatment type, medication usage, and follow-up care. Through visual analytics and predictive modeling, the project seeks to detect patterns that help hospitals proactively intervene before a patient is readmitted.
 
-Cleaning involved handling missing ratings (often via mode imputation), duplicate removal, data type conversions, category standardization, and date formatting for time-based analysis like update frequency. These steps ensure reliable EDA and modeling.
+The outcome of this analysis will lead to actionable recommendations, such as optimized discharge planning, targeted follow-up programs, better monitoring of high-risk patients, and improved care pathways. Overall, the project demonstrates how data-driven insights can improve diagnostic accuracy, enhance patient care strategies, and significantly lower hospital readmission rates.
 
-Key Factors Analyzed - 
+The findings of the analysis reveal that hospital readmissions are strongly influenced by multiple interrelated factors, including age, chronic diseases, previous visit frequency, medication dosage, and lack of post-discharge follow-up. Patients with chronic illnesses such as diabetes, hypertension, heart disease, or respiratory issues showed the highest tendency for readmission. Predictive modeling proved effective in categorizing high-risk patients, allowing hospitals to intervene earlier.
 
-App ratings positively correlate with installs and reviews, while optimal size and free pricing boost adoption; frequent updates enhance satisfaction. Categories like "Art and Design," "Family," and "Tools" often lead in installs. Paid apps face harsher reviews.
+By improving monitoring systems, customizing discharge instructions, and prioritizing follow-up care for vulnerable patients, hospitals can significantly reduce readmission rates. The project highlights how integrating data-driven decision-making within healthcare systems leads to improved patient outcomes, optimized resource utilization, and reduced financial burdens for both hospitals and patients.
 
-Analytical Insights - 
-
-Sentiment analysis of reviews reveals ~61% positive sentiment, highlighting praised features and common issues. Pricing affects ratings differently for free vs. paid apps, and high-engagement genres include Entertainment, Education, and Business. Average rating hovers around 4.17.
-​
-
-Business Recommendations - 
-
-Prioritize high-performing categories, minimize app size, adopt free models with broad content ratings, and schedule regular updates. Leverage review sentiment for iterations.
-
-Ethical Considerations - 
-
-Protecting privacy means anonymizing reviews and avoiding bias in category generalizations. Collaborate with experts for robust methods and ongoing model refinement
 
 <img width="802" height="461" alt="02" src="https://github.com/user-attachments/assets/b8755094-30ca-4c68-8313-f868c02c45f4" />
 
