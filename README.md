@@ -1,4 +1,27 @@
 ### Hospital Administration Analysis
+
+## Project Summary
+
+I conducted a multi-layered analysis of the Google Play Store ecosystem by transforming raw data into two distinct interactive dashboards. My objective was to identify key performance drivers, user preferences, and market trends to provide data-driven insights for app developers and market analysts.
+
+## What I Did
+
+Market Segmentation Analysis: I analyzed the distribution of apps by type, finding that approximately 92.61% of the store consists of free apps compared to 7.38% paid apps.
+
+User Engagement & Popularity Mapping: I visualized total installations across categories, identifying "Game" and "Communication" as the most downloaded sectors, with volumes exceeding 30 billion installs each.
+
+Sentiment & Rating Evaluation: I evaluated 33 different categories to calculate a global average rating (e.g., 3.62), and identified top-rated apps such as ROBLOX and Duolingo.
+
+Trend Identification: I tracked the App Update Trend over time, revealing a significant surge in app maintenance and development activity that peaked around 2018.
+
+Audience Targeting: I segmented the market by content rating, discovering that the "Everyone" category serves as the largest target audience with over 8.7k apps.
+
+## Tools Used
+
+
+Tableau: I used Tableau to build the first dashboard, leveraging features like Treemaps for category distribution and time-series line charts for update trends.
+
+Power BI: I developed the second dashboard in Power BI, utilizing its interactive slicers for content ratings and price types, as well as donut charts for proportional analysis.
 ​
 This project aims to reduce the rate of hospital readmissions, a major challenge that impacts patient health outcomes and increases medical costs. By analyzing patient data, treatment history, medical conditions, and admission trends, the goal is to identify key risk factors responsible for repeated hospital visits within a short period.
 
